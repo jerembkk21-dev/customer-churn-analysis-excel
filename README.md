@@ -1,4 +1,4 @@
-# customer-churn-excel-analysis
+# customer-churn-analysis-excel
 
 **1) Project Content:**
 
