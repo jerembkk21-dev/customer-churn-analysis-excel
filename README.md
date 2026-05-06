@@ -28,7 +28,7 @@ This project analyzes customer churn using Microsoft Excel. The objective is to 
 **3) Business Problem**
 
 Customer churn directly impacts revenue and growth.
-- The goal of this analysis is to:
+The goal of this analysis is to:
 - Calculate churn rate
 - Identify high-risk customer segments
 - Analyze churn by demographic and service usage variables
